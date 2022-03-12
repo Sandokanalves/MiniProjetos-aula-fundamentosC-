@@ -1,0 +1,16 @@
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\bin\Debug\net5.0\AntecessorSucessor.exe
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\bin\Debug\net5.0\AntecessorSucessor.deps.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\bin\Debug\net5.0\AntecessorSucessor.runtimeconfig.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\bin\Debug\net5.0\AntecessorSucessor.runtimeconfig.dev.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\bin\Debug\net5.0\AntecessorSucessor.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\bin\Debug\net5.0\ref\AntecessorSucessor.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\bin\Debug\net5.0\AntecessorSucessor.pdb
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\obj\Debug\net5.0\AntecessorSucessor.csproj.AssemblyReference.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\obj\Debug\net5.0\AntecessorSucessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\obj\Debug\net5.0\AntecessorSucessor.AssemblyInfoInputs.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\obj\Debug\net5.0\AntecessorSucessor.AssemblyInfo.cs
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\obj\Debug\net5.0\AntecessorSucessor.csproj.CoreCompileInputs.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\obj\Debug\net5.0\AntecessorSucessor.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\obj\Debug\net5.0\ref\AntecessorSucessor.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\obj\Debug\net5.0\AntecessorSucessor.pdb
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\AntecessorSucessor\obj\Debug\net5.0\AntecessorSucessor.genruntimeconfig.cache

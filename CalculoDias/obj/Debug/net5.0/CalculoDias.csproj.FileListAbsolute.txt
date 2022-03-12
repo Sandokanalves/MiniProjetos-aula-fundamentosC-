@@ -1,0 +1,16 @@
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\bin\Debug\net5.0\CalculoDias.exe
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\bin\Debug\net5.0\CalculoDias.deps.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\bin\Debug\net5.0\CalculoDias.runtimeconfig.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\bin\Debug\net5.0\CalculoDias.runtimeconfig.dev.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\bin\Debug\net5.0\CalculoDias.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\bin\Debug\net5.0\ref\CalculoDias.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\bin\Debug\net5.0\CalculoDias.pdb
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\obj\Debug\net5.0\CalculoDias.csproj.AssemblyReference.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\obj\Debug\net5.0\CalculoDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\obj\Debug\net5.0\CalculoDias.AssemblyInfoInputs.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\obj\Debug\net5.0\CalculoDias.AssemblyInfo.cs
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\obj\Debug\net5.0\CalculoDias.csproj.CoreCompileInputs.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\obj\Debug\net5.0\CalculoDias.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\obj\Debug\net5.0\ref\CalculoDias.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\obj\Debug\net5.0\CalculoDias.pdb
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalculoDias\obj\Debug\net5.0\CalculoDias.genruntimeconfig.cache

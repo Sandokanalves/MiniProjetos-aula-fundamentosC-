@@ -1,0 +1,16 @@
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\bin\Debug\net5.0\CalcAreaCirculo.exe
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\bin\Debug\net5.0\CalcAreaCirculo.deps.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\bin\Debug\net5.0\CalcAreaCirculo.runtimeconfig.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\bin\Debug\net5.0\CalcAreaCirculo.runtimeconfig.dev.json
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\bin\Debug\net5.0\CalcAreaCirculo.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\bin\Debug\net5.0\ref\CalcAreaCirculo.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\bin\Debug\net5.0\CalcAreaCirculo.pdb
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\obj\Debug\net5.0\CalcAreaCirculo.csproj.AssemblyReference.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\obj\Debug\net5.0\CalcAreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\obj\Debug\net5.0\CalcAreaCirculo.AssemblyInfoInputs.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\obj\Debug\net5.0\CalcAreaCirculo.AssemblyInfo.cs
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\obj\Debug\net5.0\CalcAreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\obj\Debug\net5.0\CalcAreaCirculo.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\obj\Debug\net5.0\ref\CalcAreaCirculo.dll
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\obj\Debug\net5.0\CalcAreaCirculo.pdb
+C:\Users\sando\OneDrive\Documentos\SANDOKAN\C#\CalcAreaCirculo\obj\Debug\net5.0\CalcAreaCirculo.genruntimeconfig.cache
